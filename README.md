@@ -1,5 +1,5 @@
-![viber_image_2025-02-15_12-54-54-989](https://github.com/user-attachments/assets/3e4bf825-3f7f-4cb2-b0cb-2fbffde6fb17)
-![Screenshot 2025-02-15 114429](https://github.com/user-attachments/assets/fc239fc1-c4a5-4711-90d5-875ec43a0221)
+
+
 # Vehicle Service Booking Application
 
 ## Overview
@@ -18,6 +18,8 @@ The **Vehicle Service Booking Application** is a web-based system developed usin
 - **Database**: Microsoft SQL Server
 - **ORM**: Entity Framework Core
 - **IDE**: Visual Studio
+- ![viber_image_2025-02-15_12-54-54-989](https://github.com/user-attachments/assets/3e4bf825-3f7f-4cb2-b0cb-2fbffde6fb17)
+- ![Screenshot 2025-02-15 114429](https://github.com/user-attachments/assets/fc239fc1-c4a5-4711-90d5-875ec43a0221)
 
 
 
